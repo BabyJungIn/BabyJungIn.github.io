@@ -1,0 +1,15 @@
+a {
+	font-family: 'Nanum Myeongjo';
+	font-size: 61px;
+	text-decoration: none;
+	color: hotpink;
+}
+
+body {
+	background-image: url("../images/bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: "#F7F7F7";
+	background-position: center;
+	background-size: cover;
+}
